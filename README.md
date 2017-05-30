@@ -1,6 +1,7 @@
 # giphy-api
 
 > A Vue.js project
+
 I am learning vue.js so I have made simple vue.js project. You can see live demo : https://giphyss.herokuapp.com/
 
 ## Build Setup
